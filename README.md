@@ -10,6 +10,13 @@ By deciphering crime trends and potential connections to external influences, th
 
 The downloaded data file is named crime_data.csv
 
+## Research Questions
+
+**1.** How have crime counts in LA changed over the past three years?
+**2.** What are the geographic locations within Los Angeles that experienced the highest incidence of crime?
+**3.** What age groups are affected by various types of crimes in Los Angeles?
+**4.** How does the distribution of crime counts across different age groups in Los Angeles from 2020 to 2022 vary by gender ?
+
 ## Key findings 
 - Theft/burglary emerges as the most prevalent crime
 - Age demographics highlight individuals aged 21 to 30 as the most frequently victimized group, followed by those aged 31 to 40.
