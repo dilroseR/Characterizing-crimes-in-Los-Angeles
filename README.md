@@ -24,4 +24,7 @@ The downloaded data file is named crime_data.csv
 - Theft/burglary emerges as the most prevalent crime
 - Age demographics highlight individuals aged 21 to 30 as the most frequently victimized group, followed by those aged 31 to 40.
 - Geographically, Central emerges as the epicenter of crime, followed by 77th Street, Southwest, Pacific, and Hollywood, with an overall escalation in crime rates across locations from 2020 to 2022.
-- Lastly, a gender-based analysis shows males as the majority of victims at 52.9%, with females accounting for 47.1%. 
+- Lastly, a gender-based analysis shows males as the majority of victims at 52.9%, with females accounting for 47.1%.
+
+## Software Used
+- The entire project was built using the R programming language on RStudio. 
