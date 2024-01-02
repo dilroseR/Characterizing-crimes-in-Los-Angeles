@@ -28,3 +28,8 @@ The downloaded data file is named crime_data.csv
 
 ## Software Used
 - The entire project was built using the R programming language on RStudio. 
+
+<img height="150" width="400" src="https://github.com/dilroseR/Characterizing-crimes-in-Los-Angeles/assets/70878223/4693d9cb-005e-43f6-b21e-4e1bdd0ff1ad"/><img height="150" width="430" class="image-align-left" src="https://github.com/dilroseR/Characterizing-crimes-in-Los-Angeles/assets/70878223/8771a28c-10c6-4b1c-9d3c-05e9668f2760"/>
+
+
+
